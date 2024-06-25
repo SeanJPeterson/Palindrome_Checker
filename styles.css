@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: cursive;
+    background-color: #0a0a90;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-vector/hand-drawn-question-mark-pattern_23-2149410462.jpg?w=740&t=st=1719347872~exp=1719348472~hmac=305bbf8d279390d76e3afd80f75e1363d7914696a11d274d5ea78b44230cb47c);
+  }
+  
+  h2 {
+    padding-top: 150px;
+    font-size: 2.5rem;
+  }
+  
+  #result {
+    margin-top: 20px;
+    border: 1px solid #0a0a90;
+    border-width: 1em;
+    font-size: 2.5rem;
+  }
+  
+  button {
+    cursor: pointer;
+    color: #0a0a90;
+    background-color: #c77314;
+    background-image: linear-gradient(#fa9f37, #c77370);
+    border: 3px solid #c77314;
+  }
+  
+  .border {
+        width: 80%;
+        height: 100%;
+      background-color: rgb(91, 120, 110);
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
